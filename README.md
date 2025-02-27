@@ -25,9 +25,13 @@ The dataset was sourced from a CSV file containing movie-related information, in
 ---
 # Major Highlights of the Visuals:
 •  Identified the most popular director based on movie counts
+
 •  Showcased top and bottom 5 countries by movie production
+
 •  Revealed movie trends over the years
+
 •  Analyzed country-genre mixes to find dominant genres
+
 •  Highlighted countries with the highest average movie duration
 
 # Conclusion:
